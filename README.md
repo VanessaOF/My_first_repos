@@ -3,3 +3,4 @@
 I want to practice git.
 
 updating a branch
+Myfavourite animal is the wombat
